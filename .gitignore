@@ -167,3 +167,9 @@ WeberState/.DS_Store
 WeberState/CS 6600 (Machine Learning)/Assignments/Datasets for Assignment 2/test4_5.csv
 .gitignore
 WeberState/CS 6600 (Machine Learning)/Assignments/Datasets for Assignment 2/test5_4.csv
+WeberState/CS 6570 (Data Science Algorithms I)/Assignments/Datasets/babynames/database.sqlite
+WeberState/CS 6570 (Data Science Algorithms I)/Assignments/Datasets/babynames/hashes.txt
+WeberState/CS 6570 (Data Science Algorithms I)/Assignments/Datasets/babynames/NationalNames.csv
+WeberState/CS 6570 (Data Science Algorithms I)/Assignments/Datasets/babynames/NationalReadMe.pdf
+WeberState/CS 6570 (Data Science Algorithms I)/Assignments/Datasets/babynames/StateNames.csv
+WeberState/CS 6570 (Data Science Algorithms I)/Assignments/Datasets/babynames/StateReadMe.pdf
